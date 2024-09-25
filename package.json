@@ -1,0 +1,22 @@
+{
+  "name": "chaibackend",
+  "version": "1.0.0",
+  "description": "starting backend",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [
+    "node",
+    "backend",
+    "tutorial"
+  ],
+  "author": "Harshvardhan",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^16.4.5",
+    "env": "^0.0.2",
+    "express": "^4.21.0"
+  }
+}
